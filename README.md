@@ -9,3 +9,7 @@ they visit certain restaurants on specific days.
 
 Users accumulate points that they can exchange for gift cards at different partner stores, 
 like Walmart, Amazon and Mercado Libre. 
+
+### Domain Model
+
+![domain](./DomainModel.svg)
