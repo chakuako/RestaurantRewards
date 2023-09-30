@@ -1,6 +1,6 @@
-## Restaurant Rewards App
+## Domain Driven Design Exercise
 
-Scenario: Restaurant Rewards Mobile App
+**Scenario:** Restaurant Rewards Mobile App
 
 You are tasked with designing the domain model for a Restaurant Reward Mobile App. The app 
 encourages users to scan receipts from restaurants they visit, earning points for each 
